@@ -1,0 +1,13 @@
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    border: 1px solid grey;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item-1,
+.item-2{
+    background-color: lightpink;
+}
